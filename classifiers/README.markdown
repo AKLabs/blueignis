@@ -5,9 +5,9 @@ My experiments with various classifiers available. Planning to create a simple H
 
 Adding simple XML based API for
 
-	training
+	- training
 
-	un-training
+	- un-training
 
-	classification
+	- classification
 
